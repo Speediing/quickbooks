@@ -190,7 +190,7 @@ export default function Page() {
         </aside>
 
         {/* Main Content */}
-        <main className="flex-1 p-6 max-w-6xl mx-auto w-full">
+        <main className="flex-1 p-6 w-full">
           {/* Stats Section */}
           <div className="mb-6 grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4">
             <Card className="shadow-sm rounded-lg border border-gray-200">
